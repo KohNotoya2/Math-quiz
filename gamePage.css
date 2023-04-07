@@ -1,0 +1,17 @@
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid rgba(213, 0, 245, 0.33);
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body {
+    background-color: rgb(222, 48, 69);
+}
+
+#player1_name, #player2_name {
+    display: inline-block;
+    margin: 20px;
+}
